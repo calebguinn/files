@@ -1,0 +1,56 @@
+1.     1-1                 22 Jun 14   Phase Six
+2.     1-2                 29 Jun 14   Welcome to Gitmo
+3.     1-3                 06 Jul 14   Dead Reckoning
+4.     1-4                 13 Jul 14   We'll Get There
+5.     1-5                 20 Jul 14   El Toro
+6.     1-6                 27 Jul 14   Lockdown
+7.     1-7                 03 Aug 14   SOS
+8.     1-8                 10 Aug 14   Two Sailors Walk Into a Bar
+9.     1-9                 17 Aug 14   Trials
+10.    1-10                24 Aug 14   No Place Like Home
+11.    2-1                 21 Jun 15   Unreal City
+12.    2-2                 21 Jun 15   Fight the Ship
+13.    2-3                 28 Jun 15   It's Not a Rumor
+14.    2-4                 05 Jul 15   Solace
+15.    2-5                 12 Jul 15   Achilles
+16.    2-6                 19 Jul 15   Long Day's Journey
+17.    2-7                 26 Jul 15   Alone and Unafraid
+18.    2-8                 02 Aug 15   Safe Zone
+19.    2-9                 09 Aug 15   Uneasy Lies the Head
+20.    2-10                16 Aug 15   Friendly Fire
+21.    2-11                23 Aug 15   Valkyrie
+22.    2-12                30 Aug 15   Cry Havoc
+23.    2-13                06 Sep 15   A More Perfect Union
+24.    3-1                 19 Jun 16   The Scott Effect
+25.    3-2                 19 Jun 16   Rising Sun
+26.    3-3                 26 Jun 16   Shanzhai
+27.    3-4                 03 Jul 16   Devil May Care
+28.    3-5                 10 Jul 16   Minefield
+29.    3-6                 17 Jul 16   Dog Day
+30.    3-7                 24 Jul 16   In the Dark
+31.    3-8                 31 Jul 16   Sea Change
+32.    3-9                 14 Aug 16   Paradise
+33.    3-10                21 Aug 16   Scuttle
+34.    3-11                28 Aug 16   Legacy
+35.    3-12                04 Sep 16   Resistance
+36.    3-13                11 Sep 16   Don't Look Back
+37.    4-1                 20 Aug 17   In Medias Res
+38.    4-2                 20 Aug 17   The Pillars of Hercules
+39.    4-3                 27 Aug 17   Bread & Circuses
+40.    4-4                 03 Sep 17   Nostos
+41.    4-5                 10 Sep 17   Allegiance
+42.    4-6                 17 Sep 17   Tempest
+43.    4-7                 24 Sep 17   Feast
+44.    4-8                 01 Oct 17   Lazaretto
+45.    4-9                 08 Oct 17   Detect, Deceive, Destroy
+46.    4-10                08 Oct 17   Endgame
+47.    5-1                 09 Sep 18   Casus Belli
+48.    5-2                 16 Sep 18   Fog of War
+49.    5-3                 23 Sep 18   El Puente
+50.    5-4                 30 Sep 18   Tropic of Cancer
+51.    5-5                 07 Oct 18   Warriors
+52.    5-6                 14 Oct 18   Air Drop
+53.    5-7                 21 Oct 18   Somos la Sangre
+54.    5-8                 28 Oct 18   Honor
+55.    5-9                 04 Nov 18   Courage
+56.    5-10                11 Nov 18   Commitment
